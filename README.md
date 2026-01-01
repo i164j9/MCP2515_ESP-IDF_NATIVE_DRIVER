@@ -77,7 +77,7 @@ mcp2515_set_filter_mask(&mcp2515_dev, mask, filter);
 See `mcp2515.h` for all available functions and configuration options.
 
 ## Example Project
-See the provided `main.c` for a full example including Bluetooth SPP bridging and CAN task management.
+See the provided `demo.c` for a full example including Bluetooth SPP bridging and CAN task management.
 
 ## License
 MIT or Apache 2.0 (choose your preferred license)
